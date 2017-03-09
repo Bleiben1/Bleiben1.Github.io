@@ -15,3 +15,8 @@
 .carousel-inner > .item > img {
     margin: 0 auto;
 }
+
+.page-header h1 {
+    display: -webkit-inline-box;
+    display: inline-block;
+}
