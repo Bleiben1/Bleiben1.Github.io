@@ -1,152 +1,212 @@
 {
-	"Data" : [
-		"Temporada 1": [
-			"Episodio 13 - 'Una Noche Encantadora'": {
-				"Escritor" : "Mat Groening y Sam Simon",
-				"Director" : "David Silverman y Ken Butterworth",
-				"Frases" : [
-					"1" : "Todos somos cerdos, excepto por una cosa, alguna vez podemos salir de la posilga, lavarnos con la manguera y actuar como seres humanos -Moe"
-				],
-				"Contextos" : [
-					"1" : "Homero se encuentra en el bar de Moe y le cuenta que Marge se encuentra enojada con él debido a que 'es un cerdo' donde como respuesta Moe le dice esta frase."
-				]
-			}
-		],
-		"Temporada 2": [
-			"Episodio 3 - 'Especial de noche de brujas": {
-				"Escritor" : "John Swartzwelder, Jay Kogen, Sam Simon y Wallace Wolodarsky",
-				"Director" : "Wes Archer, Rich Moore y David Silverman",
-				"Frases" : [
-					"1" : "La noche de brujas es una extraña tradición. Yo en lo personal, no la entiendo. Niños que quieren ser fantasmas o demonios... - Marge",
-					"2" : "Prefirió autodestruirse que vivir con nosotros. Creo que me siento un poco rechazada - Lisa",
-					"3" : "Había monstruos en esa nave... y éramos nosotros - Lisa",
-					"4" : "Y el cuervo nunca se fue. Aún sigue posado en el pálido busto de Palas, en el dintel de la puerta de mi cuarto. Y sus ojos parecen los de un demonio soñando, y la luz de la lámpara se derrama sobre él y tiende en el suelo su sombra. Y mi alma, del fondo de esa sombra que flota sobre el suelo, no podrá liberarse... ¡Nunca más! - Edgar Allan Poe"
-				],
-				"Contextos" : [
-					"1" : "En la escena inicial, Marge se encarga de advertir a la audiencia sobre que el episodio puede provocar miedo y que los padres deberían enviar a sus hijos a dormir.",
-					"2" : "Luego de una breve convivencia con los Simpson, la casa enbrujada se autodestruye para evitar seguir viviendo con ellos.",
-					"3" : "Luego que los extraterrestres devuelvas a los Simpsons a la tierra, sanos y salvos.",
-					"4" : "Homero se encuentra llorando la pérdida de su amor Leonor (Marge), cuando entra un cuervo que le repite la frase 'Nunca más', luego de intentar desacerse del cuervo pero sin éxito, el narrador (en la versión original, James Earl Jones), dice esta frase."
-				]
-			},
-			"Episodio 4 - Dos autos en cada cochera y tres ojos en cada pez": {
-				"Escritor" : "Sam Simon y Jonh Swartzwelder",
-				"Director" : "Wes Archer",
-				"Frases" : [
-					"1" : "Querido Dios, nosotros pagamos por todo esto así que gracias por nada - Bart"
-				],
-				"Contextos" : [
-					"1" : "Burns se presenta como candidato a la gobernación, en su campaña se presenta a cenar con un empleado aleatorio, sorteo que gana Homero. Una vez en la casa Simpson, junto con un grupo de reporteros, cuando se disponen a cenar, Bart es encargado de decir una oración."
-				]
-			},
-			"Episodio 10 - Bart es atropellado": {
-				"Escritor" : "John Swartzwelder",
-				"Director" : "Mark Kirkland",
-				"Frases" : [
-					"1" : "Recuerda, miente, engaña, roba y escucha música Heavy Metal - Diablo",
-					"2" : "Debería atropellar tantos niños como quisiera - Burns"
-				],
-				"Contextos" : [
-					"1" : "Bart es atropellado por el señor Burns, lo cual provoca que su alma abandone su cuerpo y termina en el infierno, en la tierra el es revivido lo que provoca que su alma ascienda y el Diablo le dé consejos sobre como vivir su vida.",
-					"2" : "El señor burns atropelló a Bart, en el juicio el descarga su ira por el revuelo de sus acciones y sobre como no deberían ser para tanto."
-				]
-			},
-			"Episodio 13 - No robarás": {
-				"Escritor" : "Steve Pepoon",
-				"Director" : "Rich Moore",
-				"Frases" : [
-					"1" : "Uh! lucha libre de Mexico, sabes? ahí es un verdadero deporte - Homero"
-				],
-				"Contextos" : [
-					"1" : "Luego que Homero pagase para que le instalaran televisión por cable gratis, la familia pasa una gran cantidad de tiempo frente a la televisión."
-				]
-			},
-			"Episodio 14 - El último tren": {
-				"Escritor" : "David M. Stern",
-				"Director" : "Mark Kirkland",
-				"Frases" : [
-					"1" : "Bart, ven a animar a tu tia selma - Selma \n Esta bien - Bart \n ¿Que viste hoy en la escuela? - Selma \n Que Skinner va a pedir la mano de tía Patty - Bart"
-				],
-				"Contextos" : [
-					"1" : "Selma se encuentra deprimida porque Patty está saliendo con el director Skinner, lo cual la deja con un profundo sentimiento de soledad. Bart entra en la habitación luego de volver de la escuela."
-				]
-			},
-			"Episodio 15 - ¿Donde estás hermano mío?": {
-				"Escritor" : "Jeff Martin",
-				"Director" : "Wes Archer",
-				"Frases" : [
-					"1" : "¡El bastardo es rico! - Homero"
-				],
-				"Contextos" : [
-					"1" : "Homero descubre que su medio hermano es rico cuando ve su mansión."
-				]
-			},
-			"Episodio 16 - El perro de Bart reprueba": {
-				"Escritor" : "Jon Vitti",
-				"Director" : "Jim Reardon",
-				"Frases" : [
-					"1" : "Jala la maldita cadena niño - Sra. Trofeo"
-				],
-				"Contextos" : [
-					"1" : "Bart se encuentra con Ayudante de Santa en la academia de enseñanza canina y ante las dificultades que tiene el perro, la Sra. Trofeo la grita a Bart que debe jalar la cadena del perro."
-				]
-			},
-			"Episodio 17 - Nuestros años felices": {
-				"Escritor" : "Jay Kogen y Wallace Wolodarsky",
-				"Director" : "David Silverman",
-				"Frases" : [
-					"1" : "Si puedes tomar todas tus ganancias y arriesgarlas a un giro o movimiento del azar y perder y comenzar de nuevo desde el principio sin decir una sola queja de tu perdida, la tierra es tuya y todo lo que hay en ella y lo más importante, serás un hombre, hijo mío - Abel \n Y tu serás un tonto, vamonos! - Homero"
-				],
-				"Contextos" : [
-					"1" : "Luego que Beatrice Simmons fallece le deja su fortuna al abuelo, con quien tuvo una relación amorosa. El abuelo intenta gastar el dinero con cosas que lo hacen feliz y luego intenta ayudar a la gente. Se dirige a un casino donde intenta apostar el dinero en la ruleta para ganar suficiente como para poder ayudar a todas las personas de la ciudad, Homero entra al casino preocupado que su padre cometa un gran error que les cueste dicha fortuna."
-				]
-			},
-			"Episodio 18 - Pinceles con alma": {
-				"Escritor" : "Brian K. Roberts",
-				"Director" : "Jim Reardon",
-				"Frases" : [
-					"1" : "Es dificil encontrar la belleza interior de alguien, cuando le grita a una niña de 8 años - Marge",
-					"2" : "Es malo, pero morirá, eso me gusta" -Mestra Hoover"
-				],
-				"Contextos" : [
-					"1" : "El señor Burns le encomienda a Marge que le realice un retrato suyo, en una de las sesiones en la casa Simpson, el señor Burns le grita a Lisa y Marge responde con dicha frase.",
-					"2" : "La obra de arte del señor Burns, pintada por Marge, donde se lo muestra completamente desnudo, fragil y débil, es excivida al público en el museo de arte de Springfield, donde entre los presentes se encuentra la maestra de Lisa."
-				]
-			},
-			"Episodio 19 - El sustituto de Lisa": {
-				"Escritor" : "Jon Vitti",
-				"Director" : "Rich Moore",
-				"Frases" : [
-					"1" : "Las elecciones escolares suelen ser solo concursos de popularidad - Bart",
-					"2" : "!Más asbesto, más asbesto! - Bart",
-					"3" : "Uh, espelusnante, pero prefiero una momia al hombre lobo - Homero"
-				],
-				"Contextos" : [
-					"1" : "Bart se encuentra en la escuela y responde a la idea de que las elecciones escolares son importantes.",
-					"2" : "Bart se encuentra comenzando su campaña como delegado de la clase.",
-					"3" : "Homero, Lisa y el Maestro Bergstrom se encuentran el museo viendo la excivisión de momias."
-				]
-			},
-			"Episodio 20 - La guerra de los Simpson": {
-				"Escritor" : "John Swartzwelder",
-				"Director" : "Mark Kirkland",
-				"Frases" : [
-					"1" : "Se llama remordimiento bil caricatura de niño - Lisa"
-				],
-				"Contextos" : [
-					"1" : "Mientras que Homero y Marge se encuentran fuera para resolver sus problemas matrimoniales, el abuelo se encarga de cuidar de los niños, quienes dan una fiesta donde asisten todos los niños de la ciudad. Cuando Homero y Marge están regresando, el abuelo finje llorar en el sillón para lograr que sus nietos terminen la fiesta y ordenen la casa. Cuando ven a su abuelo llorar, ambos se sienten mal y Lisa le hace saber a Bart cual es el nombre del sentimiento que siente."
-				]
-			},
-			"Episodio 21 - Tres hombres y una historieta": {
-				"Escritor" : "Jeff Martin",
-				"Director" : "Wes Archer",
-				"Frases" : [
-					"1" : "Estoy harto de trabajar, el trabajo es para los tontos! - Bart \n Hijo, estoy orgulloso de ti! Yo tenía el doble de tu edad cuando descubrí eso. - Homero"
-				],
-				"Contextos" : [
-					"1" : "Bart intenta conseguir dinero trabajando para comprarse una historieta, luego de un tiempo trabajando y viendo el poco dinero que ha conseguido le demuestra su frustración a su padre."
-				]
-			}
-		]
-	]
+  "Data": [
+    {
+      "Temporada 1": [
+        {
+          "Episodio 13 - Una Noche Encantadora": {
+            "Escritor": "Mat Groening y Sam Simon",
+            "Director": "David Silverman y Ken Butterworth",
+            "Frases": [
+              {
+                "1": "Todos somos cerdos, excepto por una cosa, alguna vez podemos salir de la posilga, lavarnos con la manguera y actuar como seres humanos -Moe"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Homero se encuentra en el bar de Moe y le cuenta que Marge se encuentra enojada con él debido a que 'es un cerdo' donde como respuesta Moe le dice esta frase."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Temporada 2": [
+        {
+          "Episodio 3 - Especial de noche de brujas": {
+            "Escritor": "John Swartzwelder, Jay Kogen, Sam Simon y Wallace Wolodarsky",
+            "Director": "Wes Archer, Rich Moore y David Silverman",
+            "Frases": [
+              {
+                "1": "La noche de brujas es una extraña tradición. Yo en lo personal, no la entiendo. Niños que quieren ser fantasmas o demonios... - Marge",
+                "2": "Prefirió autodestruirse que vivir con nosotros. Creo que me siento un poco rechazada - Lisa",
+                "3": "Había monstruos en esa nave... y éramos nosotros - Lisa",
+                "4": "Y el cuervo nunca se fue. Aún sigue posado en el pálido busto de Palas, en el dintel de la puerta de mi cuarto. Y sus ojos parecen los de un demonio soñando, y la luz de la lámpara se derrama sobre él y tiende en el suelo su sombra. Y mi alma, del fondo de esa sombra que flota sobre el suelo, no podrá liberarse... ¡Nunca más! - Edgar Allan Poe"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "En la escena inicial, Marge se encarga de advertir a la audiencia sobre que el episodio puede provocar miedo y que los padres deberían enviar a sus hijos a dormir.",
+                "2": "Luego de una breve convivencia con los Simpson, la casa enbrujada se autodestruye para evitar seguir viviendo con ellos.",
+                "3": "Luego que los extraterrestres devuelvas a los Simpsons a la tierra, sanos y salvos.",
+                "4": "Homero se encuentra llorando la pérdida de su amor Leonor (Marge), cuando entra un cuervo que le repite la frase 'Nunca más', luego de intentar desacerse del cuervo pero sin éxito, el narrador (en la versión original, James Earl Jones), dice esta frase."
+              }
+            ]
+          },
+          "Episodio 4 - Dos autos en cada cochera y tres ojos en cada pez": {
+            "Escritor" : "Sam Simon y Jonh Swartzwelder",
+            "Director" : "Wes Archer",
+            "Frases": [
+              {
+                "1" : "Querido Dios, nosotros pagamos por todo esto así que gracias por nada - Bart"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Burns se presenta como candidato a la gobernación, en su campaña se presenta a cenar con un empleado aleatorio, sorteo que gana Homero. Una vez en la casa Simpson, junto con un grupo de reporteros, cuando se disponen a cenar, Bart es encargado de decir una oración."
+              }
+            ]
+          },
+          "Episodio 10 - Bart es atropellado": {
+            "Escritor" : "John Swartzwelder",
+            "Director" : "Mark Kirkland",
+            "Frases": [
+              {
+                "1" : "Recuerda, miente, engaña, roba y escucha música Heavy Metal - Diablo",
+                "2" : "Debería atropellar tantos niños como quisiera - Burns"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Bart es atropellado por el señor Burns, lo cual provoca que su alma abandone su cuerpo y termina en el infierno, en la tierra el es revivido lo que provoca que su alma ascienda y el Diablo le dé consejos sobre como vivir su vida.",
+                "2" : "El señor burns atropelló a Bart, en el juicio el descarga su ira por el revuelo de sus acciones y sobre como no deberían ser para tanto."
+              }
+            ]
+          },
+          "Episodio 13 - No robarás": {
+            "Escritor" : "Steve Pepoon",
+            "Director" : "Rich Moore",
+            "Frases": [
+              {
+                "1" : "Uh! lucha libre de Mexico, sabes? ahí es un verdadero deporte - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Luego que Homero pagase para que le instalaran televisión por cable gratis, la familia pasa una gran cantidad de tiempo frente a la televisión."
+              }
+            ]
+          },
+          "Episodio 14 - El último tren": {
+            "Escritor" : "David M. Stern",
+            "Director" : "Mark Kirkland",
+            "Frases": [
+              {
+                "1" : "Bart, ven a animar a tu tia selma - Selma \n Esta bien - Bart \n ¿Que viste hoy en la escuela? - Selma \n Que Skinner va a pedir la mano de tía Patty - Bart"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Selma se encuentra deprimida porque Patty está saliendo con el director Skinner, lo cual la deja con un profundo sentimiento de soledad. Bart entra en la habitación luego de volver de la escuela."
+              }
+            ]
+          },
+          "Episodio 15 - ¿Donde estás hermano mío?": {
+            "Escritor" : "Jeff Martin",
+            "Director" : "Wes Archer",
+            "Frases": [
+              {
+                "1" : "¡El bastardo es rico! - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Homero descubre que su medio hermano es rico cuando ve su mansión."
+              }
+            ]
+          },
+          "Episodio 16 - El perro de Bart reprueba": {
+            "Escritor" : "Jon Vitti",
+            "Director" : "Jim Reardon",
+            "Frases": [
+              {
+                "1" : "Jala la maldita cadena niño - Sra. Trofeo"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Bart se encuentra con Ayudante de Santa en la academia de enseñanza canina y ante las dificultades que tiene el perro, la Sra. Trofeo la grita a Bart que debe jalar la cadena del perro."
+              }
+            ]
+          },
+          "Episodio 17 - Nuestros años felices": {
+            "Escritor" : "Jay Kogen y Wallace Wolodarsky",
+            "Director" : "David Silverman",
+            "Frases": [
+              {
+                "1" : "Si puedes tomar todas tus ganancias y arriesgarlas a un giro o movimiento del azar y perder y comenzar de nuevo desde el principio sin decir una sola queja de tu perdida, la tierra es tuya y todo lo que hay en ella y lo más importante, serás un hombre, hijo mío - Abel \n Y tu serás un tonto, vamonos! - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Luego que Beatrice Simmons fallece le deja su fortuna al abuelo, con quien tuvo una relación amorosa. El abuelo intenta gastar el dinero con cosas que lo hacen feliz y luego intenta ayudar a la gente. Se dirige a un casino donde intenta apostar el dinero en la ruleta para ganar suficiente como para poder ayudar a todas las personas de la ciudad, Homero entra al casino preocupado que su padre cometa un gran error que les cueste dicha fortuna."
+              }
+            ]
+          },
+          "Episodio 18 - Pinceles con alma": {
+            "Escritor" : "Brian K. Roberts",
+            "Director" : "Jim Reardon",
+            "Frases": [
+              {
+                "1" : "Es dificil encontrar la belleza interior de alguien, cuando le grita a una niña de 8 años - Marge",
+                "2" : "Es malo, pero morirá, eso me gusta - Maestra Hoover"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "El señor Burns le encomienda a Marge que le realice un retrato suyo, en una de las sesiones en la casa Simpson, el señor Burns le grita a Lisa y Marge responde con dicha frase.",
+                "2" : "La obra de arte del señor Burns, pintada por Marge, donde se lo muestra completamente desnudo, fragil y débil, es excivida al público en el museo de arte de Springfield, donde entre los presentes se encuentra la maestra de Lisa."
+              }
+            ]
+          },
+          "Episodio 19 - El sustituto de Lisa": {
+            "Escritor" : "Jon Vitti",
+            "Director" : "Rich Moore",
+            "Frases": [
+              {
+                "1" : "Las elecciones escolares suelen ser solo concursos de popularidad - Bart",
+                "2" : "!Más asbesto, más asbesto! - Bart",
+                "3" : "Uh, espelusnante, pero prefiero una momia al hombre lobo - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Bart se encuentra en la escuela y responde a la idea de que las elecciones escolares son importantes.",
+                "2" : "Bart se encuentra comenzando su campaña como delegado de la clase.",
+                "3" : "Homero, Lisa y el Maestro Bergstrom se encuentran el museo viendo la excivisión de momias."
+              }
+            ]
+          },
+          "Episodio 20 - La guerra de los Simpson": {
+            "Escritor" : "John Swartzwelder",
+            "Director" : "Mark Kirkland",
+            "Frases": [
+              {
+                "1" : "Se llama remordimiento bil caricatura de niño - Lisa"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Mientras que Homero y Marge se encuentran fuera para resolver sus problemas matrimoniales, el abuelo se encarga de cuidar de los niños, quienes dan una fiesta donde asisten todos los niños de la ciudad. Cuando Homero y Marge están regresando, el abuelo finje llorar en el sillón para lograr que sus nietos terminen la fiesta y ordenen la casa. Cuando ven a su abuelo llorar, ambos se sienten mal y Lisa le hace saber a Bart cual es el nombre del sentimiento que siente."
+              }
+            ]
+          },
+          "Episodio 21 - Tres hombres y una historieta": {
+            "Escritor" : "Jeff Martin",
+            "Director" : "Wes Archer",
+            "Frases": [
+              {
+                "1" : "Estoy harto de trabajar, el trabajo es para los tontos! - Bart \n Hijo, estoy orgulloso de ti! Yo tenía el doble de tu edad cuando descubrí eso. - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1" : "Bart intenta conseguir dinero trabajando para comprarse una historieta, luego de un tiempo trabajando y viendo el poco dinero que ha conseguido le demuestra su frustración a su padre."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }
