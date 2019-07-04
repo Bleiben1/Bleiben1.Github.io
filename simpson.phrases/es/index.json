@@ -15,6 +15,11 @@
               {
                 "1": "Homero se encuentra en el bar de Moe y le cuenta que Marge se encuentra enojada con él debido a que 'es un cerdo' donde como respuesta Moe le dice esta frase."
               }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+              }
             ]
           }
         }
@@ -41,6 +46,14 @@
                 "3": "Luego que los extraterrestres devuelvas a los Simpsons a la tierra, sanos y salvos.",
                 "4": "Homero se encuentra llorando la pérdida de su amor Leonor (Marge), cuando entra un cuervo que le repite la frase 'Nunca más', luego de intentar desacerse del cuervo pero sin éxito, el narrador (en la versión original, James Earl Jones), dice esta frase."
               }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
+		"2" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
+		"3" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
+		"4" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+              }
             ]
 		  }
 		},
@@ -56,6 +69,11 @@
             "Contexto": [
               {
                 "1" : "Burns se presenta como candidato a la gobernación, en su campaña se presenta a cenar con un empleado aleatorio, sorteo que gana Homero. Una vez en la casa Simpson, junto con un grupo de reporteros, cuando se disponen a cenar, Bart es encargado de decir una oración."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
               }
             ]
           },
@@ -73,6 +91,12 @@
                 "1" : "Bart es atropellado por el señor Burns, lo cual provoca que su alma abandone su cuerpo y termina en el infierno, en la tierra el es revivido lo que provoca que su alma ascienda y el Diablo le dé consejos sobre como vivir su vida.",
                 "2" : "El señor burns atropelló a Bart, en el juicio el descarga su ira por el revuelo de sus acciones y sobre como no deberían ser para tanto."
               }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
+		"2" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+              }
             ]
 		  }
 		},
@@ -88,6 +112,11 @@
             "Contexto": [
               {
                 "1" : "Luego que Homero pagase para que le instalaran televisión por cable gratis, la familia pasa una gran cantidad de tiempo frente a la televisión."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
               }
             ]
 		  }
@@ -105,6 +134,11 @@
               {
                 "1" : "Selma se encuentra deprimida porque Patty está saliendo con el director Skinner, lo cual la deja con un profundo sentimiento de soledad. Bart entra en la habitación luego de volver de la escuela."
               }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+              }
             ]
 		  }
 		},
@@ -120,6 +154,11 @@
             "Contexto": [
               {
                 "1" : "Homero descubre que su medio hermano es rico cuando ve su mansión."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
               }
             ]
 		  }
@@ -137,6 +176,11 @@
               {
                 "1" : "Bart se encuentra con Ayudante de Santa en la academia de enseñanza canina y ante las dificultades que tiene el perro, la Sra. Trofeo la grita a Bart que debe jalar la cadena del perro."
               }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+              }
             ]
 		  }
 		},
@@ -152,6 +196,11 @@
             "Contexto": [
               {
                 "1" : "Luego que Beatrice Simmons fallece le deja su fortuna al abuelo, con quien tuvo una relación amorosa. El abuelo intenta gastar el dinero con cosas que lo hacen feliz y luego intenta ayudar a la gente. Se dirige a un casino donde intenta apostar el dinero en la ruleta para ganar suficiente como para poder ayudar a todas las personas de la ciudad, Homero entra al casino preocupado que su padre cometa un gran error que les cueste dicha fortuna."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
               }
             ]
 		  }
@@ -171,6 +220,12 @@
                 "1" : "El señor Burns le encomienda a Marge que le realice un retrato suyo, en una de las sesiones en la casa Simpson, el señor Burns le grita a Lisa y Marge responde con dicha frase.",
                 "2" : "La obra de arte del señor Burns, pintada por Marge, donde se lo muestra completamente desnudo, fragil y débil, es excivida al público en el museo de arte de Springfield, donde entre los presentes se encuentra la maestra de Lisa."
               }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
+		"2" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+              }
             ]
 		  }
 		},
@@ -188,8 +243,15 @@
             "Contexto": [
               {
                 "1" : "Bart se encuentra en la escuela y responde a la idea de que las elecciones escolares son importantes.",
-                "2" : "Bart se encuentra comenzando su campaña como delegado de la clase.",
-                "3" : "Homero, Lisa y el Maestro Bergstrom se encuentran el museo viendo la excivisión de momias."
+     		"2" : "Bart se encuentra comenzando su campaña como delegado de la clase.",
+            	"3" : "Homero, Lisa y el Maestro Bergstrom se encuentran el museo viendo la excivisión de momias."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
+		"2" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
+                "3" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
               }
             ]
 		  }
@@ -207,6 +269,11 @@
               {
                 "1" : "Mientras que Homero y Marge se encuentran fuera para resolver sus problemas matrimoniales, el abuelo se encarga de cuidar de los niños, quienes dan una fiesta donde asisten todos los niños de la ciudad. Cuando Homero y Marge están regresando, el abuelo finje llorar en el sillón para lograr que sus nietos terminen la fiesta y ordenen la casa. Cuando ven a su abuelo llorar, ambos se sienten mal y Lisa le hace saber a Bart cual es el nombre del sentimiento que siente."
               }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+              }
             ]
 		  }
 		},
@@ -222,6 +289,11 @@
             "Contexto": [
               {
                 "1" : "Bart intenta conseguir dinero trabajando para comprarse una historieta, luego de un tiempo trabajando y viendo el poco dinero que ha conseguido le demuestra su frustración a su padre."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
               }
             ]
           }
