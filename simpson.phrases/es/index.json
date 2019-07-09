@@ -179,7 +179,7 @@
             ],
             "Imagenes": [
               {
-                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t2ep16p1.PNG"
               }
             ]
 		  }
@@ -200,7 +200,7 @@
             ],
             "Imagenes": [
               {
-                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t2ep17p1.PNG"
               }
             ]
 		  }
@@ -223,8 +223,8 @@
             ],
             "Imagenes": [
               {
-                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
-		"2" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t2ep18p1.PNG",
+		"2" : "https://bleiben1.github.io/simpson.phrases/images/t2ep18p2.PNG"
               }
             ]
 		  }
@@ -235,23 +235,23 @@
             "Director" : "Rich Moore",
             "Frases": [
               {
-                "1" : "Las elecciones escolares suelen ser solo concursos de popularidad - Bart",
-                "2" : "!Más asbesto, más asbesto! - Bart",
+                "1" : "!Más asbesto, más asbesto! - Bart",
+                "2" : "Las elecciones escolares suelen ser solo concursos de popularidad - Bart",
                 "3" : "Uh, espelusnante, pero prefiero una momia al hombre lobo - Homero"
               }
             ],
             "Contexto": [
               {
-                "1" : "Bart se encuentra en la escuela y responde a la idea de que las elecciones escolares son importantes.",
-     		"2" : "Bart se encuentra comenzando su campaña como delegado de la clase.",
+                "1" : "Bart se encuentra comenzando su campaña como delegado de la clase.",
+     		"2" : "Bart se encuentra en la escuela y responde a la idea de que las elecciones escolares son importantes.",
             	"3" : "Homero, Lisa y el Maestro Bergstrom se encuentran el museo viendo la excivisión de momias."
               }
             ],
             "Imagenes": [
               {
-                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
-		"2" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg",
-                "3" : "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+                "1" : "https://bleiben1.github.io/simpson.phrases/images/t2ep19p1.PNG",
+		"2" : "https://bleiben1.github.io/simpson.phrases/images/t2ep19p2.PNG",
+                "3" : "https://bleiben1.github.io/simpson.phrases/images/t2ep19p3.PNG"
               }
             ]
 		  }
@@ -272,7 +272,7 @@
             ],
             "Imagenes": [
               {
-                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t2ep20p1.PNG"
               }
             ]
 		  }
@@ -293,7 +293,7 @@
             ],
             "Imagenes": [
               {
-                "1": "https://bleiben1.github.io/simpson.phrases/images/t1ep13p1.jpeg"
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t2ep21p1.PNG"
               }
             ]
           }
