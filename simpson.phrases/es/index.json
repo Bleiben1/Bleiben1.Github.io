@@ -299,6 +299,229 @@
           }
         }
       ]
+    },
+	{
+      "Temporada 3": [
+        {
+          "Episodio 1 - Papá está loco": {
+            "Escritor": "Al Jean y Mike Reiss",
+            "Director": "Rich Moore",
+            "Frases": [
+              {
+                "1": "No soy popular para distinguirme - Homero",
+				"2": "Yo tuve un gato llamado Paco\n que murió y murió,\n mamá dijo que dormía,\n mentía, mentía.\n ¿Por qué? ¿Por qué murió mi gato?\n ¿Por qué no me dieron mejor un zapato?\n Yo tuve un pez llamado Alfredo\n que murió y murió... -Lisa"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Debido a un problema con su camisa blanca que fue teñida por accidente cuando bart lavó su gorra roja en la misma lavadora, Homero se ve obligado a vestir la camisa ahora rosada, convirtiendose en el hazmerreir de sus compañeros de trabajo, homero le dice la frase a Marge.",
+				"2": "Homero debe contestar una lista de preguntas solicitadas por su trabajo, pero al no querer contestarlas él mismo y debido a que Marge se negó a ayudarlo, le pide ayuda a Lisa que le pide que a cambio de su ayuda, él escuche su poema."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep1p1.PNG",
+				"2": "https://bleiben1.github.io/simpson.phrases/images/t3ep1p2.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 6 - De tal padre, tal payaso": {
+            "Escritor": "Jay Kogen y Wallace Wolodarsky",
+            "Director": "Jeffrey Lynch y Brad Bird",
+            "Frases": [
+              {
+                "1": "Un hombre que envidia a nuestra familia necesita ayuda - Lisa"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Krusty el payaso se encuentra deprimido por buscar la aprobación de su padre, él pasa un tiempo con la familia Simpson y le gusta su dinámica familiar, por lo que extiende su estadía. Lisa le dice la frase a Bart para destacar lo crítico de la situación del payaso."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep6p1.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 7 - Especial de noche de brujas II": {
+            "Escritor": "Al Jean, Mike Reiss, Jeff Martin, George Meyer, Sam Simon y John Swartzwelder",
+            "Director": "Jim Reardon",
+            "Frases": [
+              {
+                "1": "Ahora que recuerdo, el que me vendió la mano dijo que los deseos traían grandes desgracias. \n Creí que quería impresionar - Homero",
+				"2": "Siento lo de las Malvinas - Delegado Inglés \n Oh, olvídelo. Sabíamos que eran suyas - Delegado argentino",
+				"3": "¡No desperté! ¡Esto es un sueño!¡Sólo un sueño! - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Homero compra una mano de mono que les concedia cuatro deseos pero con consecuencias desastrosas.",
+				"2": "Lisa utiliza un deseo concedido por la mano de mono que compró su padre para pedir la paz mundial y en las naciones unidas los delegados de Inglaterra y Argentina comparten unas palabras.",
+				"3": "Luego que Homero soñara que el señor Burns se apodera de su cerebro para construir un robot y debido a un accidente se ve obligado a compartir su cuerpo con la cabeza de su jefe, Homero se despierta para ir al baño y al verse al espejo descubre que el señor Burns se encuentra todavía adherido a su cuerpo."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep7p1.PNG",
+				"2": "https://bleiben1.github.io/simpson.phrases/images/t3ep7p2.PNG",
+				"3": "https://bleiben1.github.io/simpson.phrases/images/t3ep7p3.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 9 - Tardes de trueno": {
+            "Escritor": "Ken Levine y David Isaacs",
+            "Director": "Jim Reardon",
+            "Frases": [
+              {
+                "1": "Mendozaaaaaaaaaaaaaaaaaa! - Mcbain"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Mcbain y su compañero Scoey se encuentran comiendo en una cafetería, hablando de todos los planes que tiene su compañero para realizar luego que se retire de la fuerza de la ley dentro de dos días. Cuando el cantinero, un secuaz de Mendoza, le dispara y mata a Scoey y este le pide a Mcbain que capture a Mendoza."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep9p1.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 12 - Me casé con Marge": {
+            "Escritor": "Jeff Martin",
+            "Director": "Jeffrey Lynch",
+            "Frases": [
+              {
+                "1": "Cuando salgas de allí lo primero que verás será un hombre con un buen empleo - Homero\n Si, al doctor - Patty"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Homero y Marge se enteran de la futura llegada de Bart, la joven pareja se encuentra en problemas para poder afrontar el futuro, por lo que Homero y Marge intentan mejorar su situación laboral. Homero se distancia momentaneamente de Marge por no poder conseguir un buen trabajo, Finalmente Homero vuelve con Marge y antes de ir a la entrevista a la planta de energía nuclear."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep12p1.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 13 - Bart y la radio": {
+            "Escritor": "Jon Vitti",
+            "Director": "Carlos Baeza",
+            "Frases": [
+              {
+                "1": "Oh, solo queda una cerveza y es de bart -Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Patty y Selma le regalan a Bart para su cumpleaños una etiquetadora y Bart la utiliza entre otra cosas, en una cerveza."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep13p1.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 14 - Los pronósticos de Lisa": {
+            "Escritor": "Jay Kogen y Wallace Wolodarsky",
+            "Director": "Rich Moore",
+            "Frases": [
+              {
+                "1": "Antes odiaba el olor a tus pies sudorozos, ahora es el olor de la victoria - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Homero encuentra una manera de explotar las habilidades matemáticas de Lisa haciendo que ella analice estadisticas de Beisbol para predecir resultados. Lisa feliz de pasar tiempo con su padre no se imagina que Homero apuesta a sus predicciones en el bar de Moe."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep14p1.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 19 - Nuestro mejor amigo": {
+            "Escritor": "John Swartzwelder",
+            "Director": "Jim Reardon",
+            "Frases": [
+              {
+                "1": "La loteria, explotan al pobre y al ignorante - Moe"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Homero se encuentra en el bar de Moe cuando en la televisión hablan sobre el gran premio de la proxima lotería y Moe expresa su pensamiento sobre el tema."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep19p1.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 20 - Homero el campirano": {
+            "Escritor": "Matt Groening",
+            "Director": "Mark Kirkland",
+            "Frases": [
+              {
+                "1": "Para mentir se necesitan dos, uno que mienta y otro que crea - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Luego que homero se involucrara en la carrera artistica de Lurleen Lumpkin, Marge conoce por primera vez a esta mujer con la que Homero pasa tanto tiempo y le reclama que él le había dicho que ella era obesa."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep20p1.PNG"
+              }
+            ]
+          }
+        },
+		{
+          "Episodio 23 - Milhouse se enamora": {
+            "Escritor": "Jay Kogen y Wallace Wolodarsky",
+            "Director": "Jim Reardon",
+            "Frases": [
+              {
+                "1": "Colosones petardistas con su falacia subliminal... Mephisto los diezme - Homero"
+              }
+            ],
+            "Contexto": [
+              {
+                "1": "Homero intenta bajar de peso utilizando unas cintas de audio para reprogramación mental pero por error recibe un grupo de cintas para mejorar el lexico. Al terminar el programa de 2 semana, Homero se pesa y descubre que había aumentado de peso."
+              }
+            ],
+            "Imagenes": [
+              {
+                "1": "https://bleiben1.github.io/simpson.phrases/images/t3ep23p1.PNG"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
