@@ -1,0 +1,237 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  /*font-family: Arial, Helvetica, sans-serif;*/
+    font-family: 'Roboto Slab', serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+    overflow: hidden;
+}
+
+li {
+  display: inline;
+    float: right;
+}
+
+li > a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+
+h2 {
+    font-size: 46px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: 300;
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+
+p {
+    font-size: 21px;
+    
+}
+
+/* ----- Clases ----- */
+
+.white-background {
+    background-color: white;
+}
+
+.lightgrey-background {
+    background-color: #96ceb4;
+}
+
+.lightorange-background {
+    background-color: #ffeead;
+}
+
+.background-color-50 {
+    background-size: cover;
+    position: relative;
+    height: 50%;
+}
+
+.background-image-1 {
+    background: url(../img/img-01.jpg) no-repeat center; 
+}
+
+.background-image-2 {
+    background: url(../img/img-02.jpg) no-repeat center; 
+}
+
+.background-image-3 {
+    background: url(../img/img-03.jpg) no-repeat center; 
+}
+
+.background-image-4 {
+    background: url(../img/img-04.jpg) no-repeat center; 
+}
+
+.hero-image {
+  background-size: cover;
+  position: relative;
+    height: 100%;
+}
+
+.text-color-white {
+    color: white;
+}
+
+.text-color-black {
+    color: black;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    width: fit-content;
+}
+
+.hero-text-80 {
+    top: 80%;
+}
+
+.hero-text-width-50 {
+    width: 50%;
+}
+
+.large-text {
+    font-size: 26px;
+}
+
+.btn-grande-claro {
+    padding: 18px 30px;
+    display: contents;
+}
+
+.btn-grande-claro a {
+    text-decoration: none;
+    font-size: 15px;
+    background: orange;
+    padding: 18px 30px;
+}
+
+.link-hover a:hover {
+    opacity: 0.5;
+}
+
+.contenedor {
+    padding: 32px;
+}
+
+.fa {
+    color: black;
+    margin: 0px 8px;
+}
+
+.fa-white-color {
+    color: white;
+}
+
+.fa-whatsapp-color {
+    color: #25D366;
+}
+
+.fa-facebook-color {
+    color: #4267B2;
+}
+
+.fa-instagram-color {
+      color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text
+}
+
+.fa:hover {
+  opacity: 0.5;
+}
+
+.column-50 {
+    float: left;
+    width: 50%;
+    padding: 26px;
+}
+
+.column-25 {
+    float: left;
+    width: 25%;
+    padding: 26px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column-25, .column-50, .row {
+    box-sizing: border-box;
+}
+
+.nav-item-active {
+    text-decoration: underline;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+/* ----- IDs ----- */
+
+#titulo {
+    float: left;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 18px 30px;
+    font-weight: 300;
+}
+
+#btn-reserva {
+    margin-top : 12px;
+}
+
+/* ----- responsive rules ----- */
+
+@media screen and (max-width: 768px) {
+    .column-25, .column-50 {
+        width: 100%;
+        padding: 12px;
+    }
+    .column-50 h3 {
+        font-size: 26px;
+    }
+    .column-50 p {
+        font-size: 16px;
+    }
+}
