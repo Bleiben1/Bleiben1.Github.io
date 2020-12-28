@@ -15,7 +15,6 @@ function responsiveNav() {
     var navegacion = document.getElementById("navegacion");
     if (navegacion.className === "") {
         navegacion.className += "responsive";
-        console.log("jajajajaj");
     } else {
         navegacion.className = "";
     }

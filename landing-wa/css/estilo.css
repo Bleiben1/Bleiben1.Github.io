@@ -119,6 +119,10 @@ p {
     top: 80%;
 }
 
+.hero-text-60 {
+    top: 60%;
+}
+
 .hero-text-width-50 {
     width: 50%;
 }
@@ -223,15 +227,65 @@ p {
 
 /* ----- responsive rules ----- */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 891px) and (orientation: portrait) {
     .column-25, .column-50 {
         width: 100%;
-        padding: 12px;
+        padding: 6px;
     }
     .column-50 h3 {
         font-size: 26px;
     }
     .column-50 p {
         font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 465px) and (orientation: portrait) {
+    h1, h2, h3, p {
+        margin : 0px;
+    }
+    
+    .contenedor {
+        padding: 8px;
+    }
+    
+    #titulo {
+        padding: 0px;
+        max-width: min-content;
+    }
+}
+
+@media screen and (max-width: 891px) and (orientation: landscape) {
+    .column-25, .column-50 {
+        width: 100%;
+        padding: 6px;
+    }
+    .column-50 h3 {
+        font-size: 26px;
+    }
+    .column-50 p {
+        font-size: 16px;
+    }
+    h1, h2, h3, p {
+        margin : 0px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    h2 {
+        font-size: 34px;
+    }
+    h3 {
+        font-size: 27px;
+    }
+    .contenedor {
+        padding: 8px;
+    }
+    #titulo {
+        padding: 0px;
+        max-width: min-content;
+    }
+    .background-color-50 {
+        height: 75%;
     }
 }
