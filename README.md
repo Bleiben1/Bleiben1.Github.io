@@ -1,4 +1,4 @@
-What am I doing? | Youo can check my projects Roadmap here : [yourportfolio.github.io](https://yourportfolio.github.io)
+what I've been doing lately? | You can check my projects Roadmap here : [yourportfolio.github.io](https://yourportfolio.github.io)
 
 # Eager Learner & Software Developer
 
